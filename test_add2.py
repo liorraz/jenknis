@@ -6,5 +6,5 @@ def test_add3():
     
     
 def test_neg():
-    assert mod_add.add(1,1)==2
+    assert mod_add.add(1,4)==5
 
